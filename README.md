@@ -107,7 +107,7 @@ Run the analysis queries to generate insights
 **Vamsi Krishna Reddy**
 📧 Email: mulintivamsireddy1@gmail.com
 
-🔗 GitHub: https://github.com/Abhilash1213-tech
+🔗 GitHub: https://github.com/VamsiReddy36-k
 
 🔗 LinkedIn: www.linkedin.com/in/vamsi-krishna-reddy-mulinti
 
