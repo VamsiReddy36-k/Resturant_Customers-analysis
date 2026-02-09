@@ -104,12 +104,12 @@ Run the analysis queries to generate insights
 
 ### 👤 Author
 
-**Abhilash Vannamaneni**
-📧 Email: vannamaneniabhilash@gmail.com
+**Vamsi Krishna Reddy**
+📧 Email: mulintivamsireddy1@gmail.com
 
 🔗 GitHub: https://github.com/Abhilash1213-tech
 
-🔗 LinkedIn: https://www.linkedin.com/in/abhilash-vannamaneni
+🔗 LinkedIn: www.linkedin.com/in/vamsi-krishna-reddy-mulinti
 
 ### ⭐ Conclusion
 
