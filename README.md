@@ -105,6 +105,7 @@ Run the analysis queries to generate insights
 ### 👤 Author
 
 **Vamsi Krishna Reddy**
+
 📧 Email: mulintivamsireddy1@gmail.com
 
 🔗 GitHub: https://github.com/VamsiReddy36-k
